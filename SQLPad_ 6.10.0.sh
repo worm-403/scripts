@@ -6,8 +6,8 @@ IP="${1}"
 PORT="${2}"
 
 if [[ -z "${@}" ]]; then
-    echo "Añade la IP y el Puerto"
-    echo "Ejemplo: ./exploit.sh IP PORT"
+    echo "Add IP and PORT"
+    echo "Example: ./exploit.sh IP PORT"
     exit 1
 fi
 
