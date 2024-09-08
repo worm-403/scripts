@@ -18,3 +18,7 @@ To use the exploit, simply run the `sqlpad` script with the SQLPad server's IP a
 ```bash
 ./sqlpad 127.0.0.1 80
 ```
+### Exaple:
+![Exploit](1.png)
+
+![Exploit](2.png)
