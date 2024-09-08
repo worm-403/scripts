@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Recuerda poner el Netcat en e purto de escucha
+#Remember to put the Netcat on the listening port
 
 IP="${1}"
 PORT="${2}"
